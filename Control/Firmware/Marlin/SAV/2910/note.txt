@@ -1,0 +1,5 @@
+Compilation OK
+3 axes
+double moteur Y
+Customisation End Stop
+second port serie

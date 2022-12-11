@@ -1,0 +1,32 @@
+
+
+
+
+Mode MODE_INT
+Menu Set Z Bed Position : 
+    - enter material tickness
+    - enter PWM
+    - Execute Move Z Bed to target position
+
+Menu Test
+    - assuming being on Focus pos
+    - enter Z delta (from min to max) (mm)
+    - enter Square Size (mm)
+    - enter speed (mm/s)
+    - enter PWM (%)
+    - enter Mode (contour / internal line / dots)
+    - Lines Step (mm)
+    - Dot duration (ms)
+    - Execute
+
+
+Menu Setup : 
+    - setup PWM Max  -> Alert / Led
+    - setup Temp Max -> Alert
+    - setup Z to Focus
+
+
+
+Mode MODE_EXT
+Menu Main 
+    - surveillance PWM, Freq, (Temp ? )

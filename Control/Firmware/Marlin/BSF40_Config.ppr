@@ -1,0 +1,38 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+HTServer=localhost
+[Project tree]
+BSF40_Config
+	+Répertoire
+		src\pins\pins_custom.h
+		Configuration_adv.h
+		Configuration.h
+[Open project files]
+0=src\pins\pins_custom.h
+1=Configuration_adv.h
+2=Configuration.h
+3=src\inc\SanityCheck.h
+[Selected Project Files]
+Main=
+Selected=src\inc\SanityCheck.h
+[src\pins\pins_custom.h]
+TopLine=147
+Caret=1,175
+[Configuration_adv.h]
+TopLine=2868
+Caret=1,2910
+[Configuration.h]
+TopLine=85
+Caret=1,85
+[src\inc\SanityCheck.h]
+TopLine=444
+Caret=1,456
