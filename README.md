@@ -76,6 +76,7 @@ https://github.com/bsfconception/CO2-Laser-Cutter/blob/main/5-YAxis/README.MD
 https://github.com/bsfconception/CO2-Laser-Cutter/blob/main/6-tube/README.MD
 
 ## Evacuation
+https://github.com/bsfconception/CO2-Laser-Cutter/tree/main/7-Exhaust
 
 ## Controle
 
