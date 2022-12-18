@@ -72,7 +72,8 @@ https://github.com/bsfconception/CO2-Laser-Cutter/blob/main/5-YAxis/README.MD
 
 ## Axe Z
 
-## Laser Tube
+## Tube Laser 
+https://github.com/bsfconception/CO2-Laser-Cutter/blob/main/6-tube/README.MD
 
 ## Evacuation
 
