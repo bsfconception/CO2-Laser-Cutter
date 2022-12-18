@@ -79,6 +79,7 @@ https://github.com/bsfconception/CO2-Laser-Cutter/blob/main/6-tube/README.MD
 https://github.com/bsfconception/CO2-Laser-Cutter/tree/main/7-Exhaust
 
 ## Controle
+https://github.com/bsfconception/CO2-Laser-Cutter/tree/main/8-Control
 
 
 
