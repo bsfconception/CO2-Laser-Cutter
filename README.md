@@ -52,3 +52,10 @@ Version intermédiaure
 Version finale
 ![IMG_20221211_155953](https://user-images.githubusercontent.com/84618082/208289911-7b8ddef4-6eff-49ed-9041-bee76f0724f8.jpg)
 
+## Préparation 
+https://github.com/bsfconception/CO2-Laser-Cutter/tree/main/0-preparation
+
+## Liste des pièces détachées
+https://github.com/bsfconception/CO2-Laser-Cutter/tree/main/1-BOM
+
+
