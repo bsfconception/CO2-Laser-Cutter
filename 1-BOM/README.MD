@@ -12,24 +12,21 @@
 | PART_8 | Écrous Coulissant en Aluminium | https://fr.aliexpress.com/item/1005004060299402.html | ![image20](https://user-images.githubusercontent.com/84618082/208300472-67934589-ee13-4a48-9ab9-b37f7722b2b7.jpg) | Fixation Structure | 
 | PART_9 | Vis à tête hexagonale M5 8mm en acier inoxydable | https://fr.aliexpress.com/item/1005003386270100.html | ![image8](https://user-images.githubusercontent.com/84618082/208300518-25e71cfb-f306-45a2-a657-b54dc70df029.jpg) | Fixation Structure | 
 | PART_10 | Plaque Coulissante Poulie Pour 2020 /2040 V fente Profilés En Aluminium Roues | https://fr.aliexpress.com/item/1005004378363347.html | ![image15](https://user-images.githubusercontent.com/84618082/208300575-5771b016-818e-40c5-a592-238d92453f0f.jpg) | 1 ex : Chariot X | 
-| PART_11 | x | x | x | 2 ex : Chariot Y | 
+| PART_11 | profils en aluminium, Plat de portique, partie d'imprimante 3D, 20-80mm | https://fr.aliexpress.com/item/1005003983256336.html | ![image10](https://user-images.githubusercontent.com/84618082/208300671-3320ede5-1089-4dff-9807-47f94045f41b.jpg) | 2 ex : Chariot Y | 
 | PART_12 | Plaque Coulissante Poulie Pour 2020 /2040 V fente En Aluminium Profils | https://fr.aliexpress.com/item/4001163449010.html | ![image13](https://user-images.githubusercontent.com/84618082/208300632-7b0a6fc1-7327-4ad7-b9cc-defaceba86e8.jpg) | 4 ex : Chariot Z | 
-| PART_13 | x | x | x | Fixation Structure | 
-| PART_14 | x | x | x | Fixation Structure | 
-| PART_15 | x | x | x | Fixation Structure | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
-| PART_ | x | x | x | x | 
+| PART_13 | Poulie de synchronisation 30 dents 2GT | https://fr.aliexpress.com/item/1005002682795200.html | ![image2](https://user-images.githubusercontent.com/84618082/208300779-1db69dfc-a6ff-4992-b953-64172165c22e.jpg) | 4 ex : Entrainement Axe Z | 
+| PART_14 | Poulie de synchronisation, roue libre GT2 | https://fr.aliexpress.com/item/1005004315535097.html | ![image19](https://user-images.githubusercontent.com/84618082/208300853-2d41ccbc-712f-48ea-b676-a3a7603f50c4.jpg) | 4 ex : Tendeur Axe Z | 
+| PART_15 | 20 dents, poulie de synchronisation, roue libre GT2, largeur 6mm, alésage 5 mm | https://fr.aliexpress.com/item/1005004315535097.html | ![image4](https://user-images.githubusercontent.com/84618082/208300920-1f3f8d3d-2938-45bd-9d5d-a1f1d91ea425.jpg) | 1 ex : Retour Courroie Axe X | 
+| PART_15 | 20 dents, poulie de synchronisation, roue libre GT2, largeur 6mm, alésage 8 mm | https://fr.aliexpress.com/item/1005004315535097.html | ![image4](https://user-images.githubusercontent.com/84618082/208300920-1f3f8d3d-2938-45bd-9d5d-a1f1d91ea425.jpg) | 2 ex : Retour Courroie Axe Y | 
+| PART_16 | Poulie de synchronisation 20 dents, alésage 5 mm pour GT2 | https://fr.aliexpress.com/item/1005002226516848.html | ![image22](https://user-images.githubusercontent.com/84618082/208301020-2a0fa58b-1d91-449a-80b5-cebefa928c7b.jpg) | 3 ex : entrainement axe X et Y | 
+| PART_17 | Chariot à ceinture à boucle fermée 3 pièces | https://fr.aliexpress.com/item/1005003405763270.html | ![image11](https://user-images.githubusercontent.com/84618082/208301149-570f31d4-c0f9-4aba-b8dc-be3d4a3384fd.jpg) | 1 ex : fixation courroie/chariot | 
+| PART_18 | Ressort de Torsion de verrouillage de ceinture de synchronisation GT2 | https://fr.aliexpress.com/item/1005003049732383.html | ![image3](https://user-images.githubusercontent.com/84618082/208301195-2bad5784-c16d-4935-afbb-d1e309ddc4b0.jpg) | 1 ex : Tendeur courroie | 
+| PART_19 | Courroie de distribution ouverte, courroie de Transmission de roue synchrone en polyuréthane Kevlar + TPU largeur 6mm | https://fr.aliexpress.com/item/1005003028779249.html | ![image23](https://user-images.githubusercontent.com/84618082/208301257-24026c87-3cfd-4c7c-8c5b-420793061705.jpg) | Courroie ouverte X et Y | 
+| PART_20 | Roulements à bille alesage 8mm, diam 22mm, ep 7mm | https://fr.aliexpress.com/item/4000120401871.html | ![image1](https://user-images.githubusercontent.com/84618082/208301328-56ec7f74-385e-46c8-b655-ae20c9574e3b.jpg) | 8 ex : roulement axe Y | 
+| PART_21 | Vis sans fin, Tige Trapézoïdale avec Écrous en CuivreT, 2mm 8mm de Longueur, 100 mm | https://fr.aliexpress.com/item/1005002474433362.html | ![image24](https://user-images.githubusercontent.com/84618082/208301383-42a359c3-6e8d-4448-ab9a-342b728d5843.jpg) | 4 ex : Entraineement Z Bed | 
+| PART_22 | plaque de montage moteur nema 17 | https://fr.aliexpress.com/item/1005001664519896.html | ![image12](https://user-images.githubusercontent.com/84618082/208301452-5f9b2db3-ae39-4095-b71a-62ba3f171c21.jpg) | 2 ex : plaque de montage moteurs Y | 
+| PART_23 | Chemin de cable | https://fr.aliexpress.com/item/32999589537.html | ![image21](https://user-images.githubusercontent.com/84618082/208301500-0aa04b5f-ff7b-4ee4-b0c2-1871ba0596ac.jpg) | 2 ex : chemin de cable X et Y | 
+| PART_24 | Cloudray CO2 Laser Head CO2 Ensemble de têtes laser avec supports de miroir D12 FL50 | https://www.amazon.fr/gp/product/B07K2XL8CH | ![image7](https://user-images.githubusercontent.com/84618082/208301541-2039d08f-e7b9-4b24-92c6-08ff4b3b4846.jpg) | Ensemble Tête Laser | 
+| PART_25 | Kit 5 moteurs Nema17 avec support | https://www.amazon.fr/gp/product/B075SYWFJM | ![image18](https://user-images.githubusercontent.com/84618082/208301579-3624bfb2-6d8d-4c4c-a831-b662c5651fb6.jpg) | Moteurs Pas à Pas | 
+| PART_26 | Capteurs de fin de course | https://www.amazon.fr/gp/product/B07VWRS24K | ![image28](https://user-images.githubusercontent.com/84618082/208301626-c03f421a-165e-45e2-9d56-75b15428f0d8.jpg) | 3 ex : fin de cours X, Y et Z | 
+| PART_27 | Kit pour imprimante 3D avec carte méga 2560 R3 CH340, + 1 pièce contrôleur RAMPS 1.4 + 5 pièces de module pilote pas à pas A4988 | https://fr.aliexpress.com/item/1005001322555615.html | ![image17](https://user-images.githubusercontent.com/84618082/208301668-91fc5a9b-0454-4be7-ae1a-8372bb92c608.jpg) | Controleur Ramp1.4 | 
