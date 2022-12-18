@@ -61,8 +61,22 @@ https://github.com/bsfconception/CO2-Laser-Cutter/tree/main/1-BOM
 ## Structure générale
 https://github.com/bsfconception/CO2-Laser-Cutter/blob/main/1-Frame/README.MD
 
-## Montage the Tête sur Chariot X
+## Montage de tête sur Chariot X
 https://github.com/bsfconception/CO2-Laser-Cutter/tree/main/2-Head
+
+## Axe X
+https://github.com/bsfconception/CO2-Laser-Cutter/tree/main/4-XAxis
+
+## Axe Y
+
+## Axe Z
+
+## Laser Tube
+
+## Evacuation
+
+## Controle
+
 
 
 
