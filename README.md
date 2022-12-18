@@ -58,4 +58,8 @@ https://github.com/bsfconception/CO2-Laser-Cutter/tree/main/0-preparation
 ## Liste des pièces détachées
 https://github.com/bsfconception/CO2-Laser-Cutter/tree/main/1-BOM
 
+## Structure générale
+https://github.com/bsfconception/CO2-Laser-Cutter/blob/main/1-Frame/README.MD
+
+
 
