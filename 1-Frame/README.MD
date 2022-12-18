@@ -1,6 +1,6 @@
 # Structure Aluminium
 
-Vue gébérage de la structure
+Vue générale de la structure
 
 ![Frame](https://user-images.githubusercontent.com/84618082/208303914-0089c2c2-e168-4965-8295-06ada8d18e2d.jpg)
 
