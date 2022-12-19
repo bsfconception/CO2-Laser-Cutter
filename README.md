@@ -26,6 +26,8 @@ Cette version utilise le contrôleur suivant
   - 1 Axe Y
   - 1 Axe A (Rotatif)  
 - Compatible Lightburn
+- Joystick 3 axes pour positionnement manuel de la tête
+- Entrée additionnelle GCode
 
 Modèle 3D crée sous Sketchup
 ![CO2_Laser](https://user-images.githubusercontent.com/84618082/208289881-955a83f9-7de3-4fcb-a703-7317397d6f9c.jpg)
