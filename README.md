@@ -31,6 +31,9 @@ Modèle 3D crée sous Sketchup
 ![CO2_Laser](https://user-images.githubusercontent.com/84618082/208289881-955a83f9-7de3-4fcb-a703-7317397d6f9c.jpg)
 toutes les pièces (découpe et impression 3D) ont été construites dans Sketchup
 
+Cablage Carte Ramp1.4 avec le firmware paramètré 
+![CO2_Ramp](https://user-images.githubusercontent.com/84618082/208481535-79890c76-8d9f-441d-a68e-84c654e65965.svg)
+
 Version intermédiaure
 ![IMG_20221209_230923](https://user-images.githubusercontent.com/84618082/208289903-55186b29-1876-48af-91f3-a71b02f3ff6a.jpg)
 
