@@ -33,6 +33,9 @@
 | PART_28 | Laser Power CO2 Machine 50W | https://www.vevor.fr/alimentation-laser-c_11138/50w-adaptateur-d-alimentation-de-machine-a-gravure-de-laser-co2-controle-par-ttl-p_010161587602 | ![fr_KGDY50W0000000001V2_goods_img-v3_laser-power-m100-1 2](https://user-images.githubusercontent.com/84618082/208402232-10b64382-8675-4b0e-8ad4-1be98eac1d93.jpg) | CO2 Power Supply | 
 | PART_29 | Tube Laser CO2 50W | https://www.vevor.fr/tube-laser-c_11139/50w-tube-de-laser-scelle-verre-de-silicate-de-bore-pour-le-graveur-a-laser-co2-p_010830114190 | ![fr_JGG50WCO2JGG00001V0_goods_img-v3_laser-tube-m100-1 2](https://user-images.githubusercontent.com/84618082/208402487-64e1a43a-4289-4bdb-ab44-cf70c83587c6.jpg) |  Tube Laser | 
 | PART_30 | Capteur de circulation | https://fr.aliexpress.com/item/1005003077542253.html | ![FlowSensor](https://user-images.githubusercontent.com/84618082/208403013-47d48c0f-410b-47ec-aedc-16309ca3fd70.jpg) | Capteur | 
+| PART_31 | Mirroirs | https://fr.aliexpress.com/item/33003819824.html |  | Laser | 
+| PART_32 | Lentille de focalisation |  | https://fr.aliexpress.com/item/32234326702.html | laser | 
 |  |  |  |  |  | 
+
 
 
