@@ -1,5 +1,5 @@
 # CO2-Laser-Cutter
-Build (or improve) a CO2 laser
+Build your own CO2 laser cutter-Engraver
 
 Ce projet détaille l'ensemble des étapes et pièces utilsées pour construire une découpeur/graveur laser au CO2.
 
@@ -8,7 +8,7 @@ Ce n'est ni un guide, ni un kit, mais les fichiers partagés peuvent bien sur ê
 
 La partie contrôleur sera également décrite, mais à chacun de choisir le produit le plus adapté à son besoin.
 
-## Les caractéristiques du produit décrit sont 
+## Caractéristiques
 - Surface de travail : 780 * 480 mm
 - réglage de Hauteur Z : 95mm
 - Adaptable pour tubes de 40, 50 et 60W (au delà cela dépasse le cadre)
